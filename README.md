@@ -20,6 +20,7 @@ Notifications are in the format: `Pokemon-name IV% Level# CP# Gender:symbol; Des
 - Pingusermapping and CatchHelper are optional
 - Credits to [CCEV](https://github.com/ccev/shinywatcher) who created the original version of shinywatcher
 - Special Credits to <a href="https://github.com/crhbetz">crhbetz</a> who made CatchHelper run in the plugin system
+- and ghosttaker as I forked this from him and made some changes in this 
 
 ## Getting Started
 - import Plugin `ShinyWatcher.mp` via MADmin website at `System > MAD Plugins`
