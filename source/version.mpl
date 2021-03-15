@@ -1,6 +1,6 @@
 [plugin]
-pluginname = ShinyWatcher
+pluginname = ShinyWatcher 2.0
 description = Reporting found shiny pokemon to Discord
-author = GhostTalker
-url = https://github.com/GhostTalker/shinywatcher
-version = 2.0.15
+author = manish2244
+url = https://github.com/manish2244/shinywatcher
+version = 6.9
