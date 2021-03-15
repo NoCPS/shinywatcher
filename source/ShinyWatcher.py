@@ -39,7 +39,7 @@ class ShinyWatcher(mapadroid.utils.pluginBase.Plugin):
         ]
 
         self._hotlink = [
-            ("Plugin Readme", "/mswreadme", "ShinyWatcher - Readme Page"),
+            ("Plugin Readme", "/mswreadme", "ShinyWatcher 2.0 - Readme Page"),
         ]
 
         if self._pluginconfig.getboolean("plugin", "active", fallback=False):
